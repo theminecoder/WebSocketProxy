@@ -5,5 +5,5 @@ Made with the goodness of [Socket.IO](https://github.com/socketio/socket.io) :he
 Just clone/download repo zip and `npm install`!
 
 ## Usage
-`node wsproxy <remote socket.io address> [port]`
+`node wsproxy.js <remote socket.io address> [port]`
 Port defaults to 8080
